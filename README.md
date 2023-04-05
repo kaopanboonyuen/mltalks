@@ -26,3 +26,4 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 4. https://archive.ics.uci.edu/ml/datasets.php
 5. https://www.analyticsvidhya.com/blog/2021/12/disaster-tweet-classification-using-bert-neural-network/
 6. http://cs231n.stanford.edu/slides/2021/lecture_5.pdf
+7. https://stanford.edu/~shervine/teaching

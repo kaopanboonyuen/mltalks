@@ -17,6 +17,12 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - Sample BiLSTM with Conv1D Code (Air Pollution Data Set): [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/GeorgeCodeHub/Analysis-and-prediction-of-air-pollution-using-BiLSTM-Conv1D)
 
+### Sample Solution: Dog Breed Identification (Kaggle)
+
+![](https://cdn.shopify.com/s/files/1/0009/1566/9028/products/Dog-breed-list-1a_48eb1174-3812-4ee2-91c7-436609d267b8_2048x.jpg?v=1649426254)
+
+- Dog Breed Identification with Xception (Sol): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb)
+
 
 ### Reference:
 

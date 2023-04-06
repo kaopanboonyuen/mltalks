@@ -21,7 +21,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - Dog Breed Identification with Xception (Sol): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/mltalks/blob/main/code/Dog_Breed_Identification_Sol_(TF2).ipynb)
 
-![](https://cdn.shopify.com/s/files/1/0009/1566/9028/products/Dog-breed-list-1a_48eb1174-3812-4ee2-91c7-436609d267b8_2048x.jpg?v=1649426254)
+![](https://media.tenor.com/twOxYKWAI5IAAAAM/dog.gif)
 
 ### Reference:
 

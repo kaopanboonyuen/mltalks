@@ -13,6 +13,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - https://github.com/kaopanboonyuen/mltalks/blob/main/slides/ML_Talks.pdf
 ### Code
 
+- Basic Python: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPython.ipynb)
+- Basic Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPandas.ipynb)
 - Basic Convolution Neural Networks: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb)
 
 - Sample BiLSTM with Conv1D Code (Air Pollution Data Set): [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/GeorgeCodeHub/Analysis-and-prediction-of-air-pollution-using-BiLSTM-Conv1D)
